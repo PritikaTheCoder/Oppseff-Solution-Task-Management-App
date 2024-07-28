@@ -23,8 +23,6 @@ The AppSheet app provides various views for task management, resource tracking, 
   ![Task Lists](./Images/task_lists.png)
 - **About View**
   ![About View](./Images/about_view.png)
-- **Feedback View** (Restricted)
-  ![Feedback View](./Images/feedback_view.png)
 
 ### Accessing the AppSheet App
 [Click here to access the AppSheet app](https://www.appsheet.com/start/b4f3168b-b19c-405f-b693-df3fe4410ef0?platform=desktop#vss=H4sIAAAAAAAAA52PTW_CMAyG_4vPAfWD8ZErTAKhcRiIwwgHQ1ytom2qJgxQlf8-Z4DYcexmv34fv3YLXzmdlg73B5Cb9tHN6QISWgWrS00KpIKxqVxjCgVCwQLLqzg1ofDgt-LOOrIg27-j8v-pAnJNlcuznJqwJ1DM3xgeB4KF4AcvoDw63BX0c2Tw34y_XQLejXHcabSfO4ONZmmCDhkqa9aTKOl1okEnGa7iRKYjGY-6_ShOo5f0A7znlMzsj5b0mp968hk7q17PNVb6zWi-KMPCkv8GnAv7MaMBAAA=&view=Home&appName=TaskManagement-968136651-24-07-02)
